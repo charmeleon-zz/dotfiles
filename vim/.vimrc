@@ -1,6 +1,7 @@
 " These are great for everything vim so far
 
-set smartindent
+filetype indent on
+
 " Best indentation explanation: tedlogan.com/techblog3.html
 set tabstop=4
 set shiftwidth=4
